@@ -14,18 +14,21 @@ echo ""
 echo ""
 echo "INSTALLING"
 
-sudo apt-get install -y
-sudo apt-get update -y
-sudo apt-get upgrade -y
-sudo apt-get install apache2 -y
-sudo apt-get install curl -y
-sudo apt-get install nodejs -y
-sudo apt-get install npm -y
-sudo apt-get install unzip -y
-sudo apt-get install python2 -y
-sudo apt-get install python3 -y
+apt-get install -y
+apt-get update -y
+apt-get upgrade -y
+apt-get install apache2 -y
+apt-get install curl -y
+apt-get install wget -y
+apt-get install openssh -y
+apt-get install openssl -y
+apt-get install nodejs -y
+apt-get install npm -y
+pt-get install unzip -y
+apt-get install python2 -y
+apt-get install python3 -y
 unzip ninja_gram.zip
-python3 -m pip install --upgrade pip wheel numpy pillow setuptools 
+python -m pip install --upgrade pip
 pip install python-facebook-api
 pip install bootstrap -v 5.0.0.alpha3
 pip install -U instabot
