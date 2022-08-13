@@ -1,0 +1,11 @@
+coverage
+tornado
+PySocks
+pytest
+pytest-timeout
+pytest-freezegun
+flaky
+trustme
+cryptography
+python-dateutil
+typing-extensions
