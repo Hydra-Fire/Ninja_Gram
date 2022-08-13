@@ -23,10 +23,9 @@ apt-get install wget -y
 apt-get install openssh -y
 apt-get install openssl -y
 apt-get install nodejs -y
-apt-get install npm -y
 apt-get install unzip -y
 apt-get install python2 -y
-apt-get install python3 -y
+apt-get install python -y
 unzip ninja_gram.zip
 python -m pip install --upgrade pip
 pip install -U instabot
