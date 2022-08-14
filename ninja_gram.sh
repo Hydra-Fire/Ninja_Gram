@@ -35,19 +35,7 @@ pip install twine
 pip install instagram_private_api
 pip install git+https://git@github.com/ping/instagram_private_api.git@1.6.0 --upgrade
 python3 -c "$(curl https://gist.github.com/vsajip/4673395/raw/3420d9150cele9797dc8522fce7386d8643b02al/pyenv.py)" env-dir
-npm install -g npm
 npm install instagram-private-api
-npm install
-npm install npm@latest
-npm i instabot
-npm i http-proxy-agent
-npm i https-proxy-agent
-npm i socks-proxy-agent
-npm i agent-base
-npm i instagram-web-api
-npm i instagram-private-api
-npm i bootstrap@5.0.0-alpha1
-npm install bootstrap@next
 npm install
 echo ""
 echo "DON'T FORGET TO SUBSCRIBE"
