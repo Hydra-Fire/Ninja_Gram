@@ -1,17 +1,3 @@
-echo ""
-echo ""
-echo ""
-echo "ARE YOU READY FOR START NOW"
-echo "INSTALATION NINJA_GRAM 2022"
-echo "GET UP FOLLOWERS"
-echo "JUST ONE CLICK"
-echo "LET'S SUBSCRIBE FOR SUPPORT"
-echo ""
-echo ""
-echo ""
-echo "WAITING FOR STARTED"
-echo ""
-echo ""
 echo "INSTALLING"
 
 apt-get install -y
@@ -36,14 +22,8 @@ pip install instagram_private_api
 pip install git+https://git@github.com/ping/instagram_private_api.git@1.6.0 --upgrade
 python3 -c "$(curl https://gist.github.com/vsajip/4673395/raw/3420d9150cele9797dc8522fce7386d8643b02al/pyenv.py)" env-dir
 npm install instagram-private-api
-npm install
 echo ""
 echo "DON'T FORGET TO SUBSCRIBE"
-echo ""
-echo ""
-echo "ARE YOU PRO NOW"
-echo "SUPPORT ME AND SUBSCRIBE"
-echo "THANKS FOR SUPPORT ME"
 echo ""
 exit
 
