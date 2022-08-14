@@ -5,7 +5,7 @@ mkdir ENVpython
 cd ENVpython
 sudo apt-get install python2
 sudo apt-get install python3
-pip install --upgrade pip wheel setuptools
+pip install --upgrade pip setuptools
 pip install pipfile
 pip install virtualenv
 pip install virtualenv-clone
